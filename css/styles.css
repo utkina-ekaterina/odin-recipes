@@ -1,0 +1,31 @@
+* {
+    color: #A9907E;
+    background-color: #675D50;
+}
+  
+  p {
+    color: #F3DEBA;
+  }
+
+  img {
+    height: auto;
+    width: 450px;
+  }
+
+  h1 {
+    align-items: center;
+    text-align: center;
+  }
+
+  .description {
+    text-align: center;
+    font-size: 12px;
+    margin: 3px;
+  }
+  .titles {
+    color: #ABC4AA;
+  }
+
+  li {
+    color: #F3DEBA;
+  }
