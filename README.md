@@ -1,2 +1,7 @@
 # odin-recipes
-Recipes project (done within the Foundations course on theodinproject.com)
+Recipes project. 
+
+This project was done within the Foundations course on theodinproject.com
+
+
+
