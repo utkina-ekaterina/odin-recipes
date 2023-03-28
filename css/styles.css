@@ -1,5 +1,5 @@
 * {
-    color: #A9907E;
+    color: #e0d7d1;
     background-color: #675D50;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -41,6 +41,7 @@
   }
 
   h6 {
+    color: #A9907E;
     font-style: italic;
   }
 
