@@ -1,3 +1,5 @@
+
+  /* this selector dictates the style of the whole page */
 * {
     color: #e0d7d1;
     background-color: #675D50;
@@ -5,52 +7,63 @@
 
 }
   
+  /* this selector modifies all <p> objects */
   p {
     color: #F3DEBA;
     font-size: 12px;
   }
 
+    /* this selector modifies all inserted pictures */
   img {
     height: auto;
     width: 450px;
   }
 
+    /* this selector modifies h1 header */
   h1 {
     align-items: center;
     text-align: center;
     margin-bottom: 11px;
   }
 
+    /* this selector selects all objects that have .description class */
   .description {
     text-align: center;
     font-size: 15px;
     margin: 3px;
   }
+
+  /* this selector selects all objects that have .titles class */
   .titles {
     color: #ABC4AA;
   }
 
+  /* this selector modifies all list objects */
   li {
     color: #F3DEBA;
     font-size: 13px;
   }
 
+  /* this selector modifies h4 headers */
   h4 {
     color: #ABC4AA;
     margin: 0px;
   }
 
+ /* this selector modifies h6 headers */
   h6 {
     color: #A9907E;
     font-style: italic;
   }
 
+  /* this selector selects all objects that have .preview class */
   .preview {
     height: 200px;
     width: auto;
     margin: 30px;
   }
 
+  /* this selector selects all objects that have .flex-container class */
   .flex-container {
     display: flex;
   }
@@ -64,6 +77,7 @@
     margin: 30px;
   }
 
+  /* this selector selects all objects that have .text class */
   .text {
     text-align: center;
     align-items: center;
