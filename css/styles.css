@@ -2,10 +2,12 @@
     color: #A9907E;
     background-color: #675D50;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
   
   p {
     color: #F3DEBA;
+    font-size: 12px;
   }
 
   img {
@@ -21,7 +23,7 @@
 
   .description {
     text-align: center;
-    font-size: 12px;
+    font-size: 15px;
     margin: 3px;
   }
   .titles {
@@ -30,6 +32,7 @@
 
   li {
     color: #F3DEBA;
+    font-size: 13px;
   }
 
   h4 {
@@ -40,4 +43,26 @@
   h6 {
     font-style: italic;
   }
+
+  .preview {
+    height: 200px;
+    width: auto;
+    margin: 30px;
+  }
+
+  .flex-container {
+    display: flex;
+  }
   
+  /* this selector selects all divs inside of .flex-container */
+  .flex-container div {
+    height: 400px;
+    flex: 1;
+  }
+  
+  .text {
+    text-align: center;
+    align-items: center;
+  }
+
+
