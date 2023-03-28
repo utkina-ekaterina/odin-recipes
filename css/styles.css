@@ -66,6 +66,7 @@
   /* this selector selects all objects that have .flex-container class */
   .flex-container {
     display: flex;
+    flex-direction: column;
   }
   
   /* this selector selects all divs inside of .flex-container */
@@ -82,5 +83,12 @@
     text-align: center;
     align-items: center;
   }
-
+  
+  .extra {
+    background: rgba(169, 144, 126, 0.0);
+    
+  }
+  a {
+    text-decoration: none;
+  }
 
