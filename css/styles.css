@@ -56,10 +56,13 @@
   
   /* this selector selects all divs inside of .flex-container */
   .flex-container div {
+    background: rgba(169, 144, 126, 0.1);
     height: 400px;
+    border-radius: 50px;
     flex: 1;
+    margin: 30px;
   }
-  
+
   .text {
     text-align: center;
     align-items: center;
