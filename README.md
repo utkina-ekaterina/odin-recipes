@@ -4,7 +4,7 @@
 This is **Recipes project** that was done within the *Foundations* course on *https://www.theodinproject.com/*.
 
 ## Implementation
-In this project I have used HTML and CSS based on the course material and directions.
+In this project I have used **HTML and CSS** based on the course material and directions.
 
 I am still modifying this project.
 
